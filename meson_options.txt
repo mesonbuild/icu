@@ -1,0 +1,2 @@
+option('shared_lib', type : 'boolean', value : false)
+option('runtests', type : 'boolean', value : false)

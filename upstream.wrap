@@ -1,0 +1,6 @@
+[wrap-file]
+directory = icu
+
+source_url = http://download.icu-project.org/files/icu4c/55.1/icu4c-55_1-src.tgz
+source_filename = icu4c-55_1-src.tgz
+source_hash = e16b22cbefdd354bec114541f7849a12f8fc2015320ca5282ee4fd787571457b
