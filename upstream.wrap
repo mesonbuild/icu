@@ -1,0 +1,12 @@
+[wrap-file]
+directory = icu
+
+source_url = https://github.com/unicode-org/icu/releases/download/release-55-2/icu4c-55_2-src.tgz
+source_filename = icu4c-55_2-src.tgz
+source_hash = eda2aa9f9c787748a2e2d310590720ca8bcc6252adf6b4cfb03b65bef9d66759
+
+[provide]
+
+icu-uc = icuuc_dep
+icu-io = icuio_dep
+icu-i18n = icui18n_dep
